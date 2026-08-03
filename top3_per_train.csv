@@ -1,0 +1,138 @@
+train_name,station_name,average_delay_minutes,rnk
+August Kranti Rajdhani,BORIVALI,29.0,1
+August Kranti Rajdhani,DAHOD,25.5,2
+August Kranti Rajdhani,KOTA JN,23.0,3
+August Kranti Rajdhani,VAPI,23.0,3
+Chennai Express,THANE,54.0,1
+Chennai Express,KALYAN JN,51.0,2
+Chennai Express,KODURU,45.0,3
+Chennai Intercity,AHMADNAGAR,90.0,1
+Chennai Intercity,AHMADNAGAR,90.0,1
+Chennai Intercity,KRISHNARAJAPURM,73.0,3
+Chennai Vande Bharat,KALYAN JN,29.0,1
+Chennai Vande Bharat,DADAR,19.0,2
+Chennai Vande Bharat,THANE,18.0,3
+Cheran Express,PERAMBUR,32.0,1
+Cheran Express,ARAKKONAM,28.0,2
+Cheran Express,SALEM JN,25.0,3
+Cheran Express,ERODE JN,25.0,3
+Coimbatore Express,GANAGAPUR ROAD,67.0,1
+Coimbatore Express,KALABURAGI JN,66.0,2
+Coimbatore Express,DUDHANI,63.0,3
+Coimbatore Express,DUDHANI,63.0,3
+Coimbatore Intercity,BOMMIDI,29.0,1
+Coimbatore Intercity,MORAPPUR,28.0,2
+Coimbatore Intercity,TIRUPPUR,28.0,2
+Coimbatore Intercity,COIMBATORE NRTH,28.0,2
+Coromandel Express,RAJAMUNDRY,131.0,1
+Coromandel Express,JAJPUR K ROAD,104.0,2
+Coromandel Express,RAJAMUNDRY,100.0,3
+Devagiri Express,NASIK ROAD,62.0,1
+Devagiri Express,THANE,62.0,1
+Devagiri Express,DADAR,61.0,3
+Dibrugarh Rajdhani,NEW TINSUKIA JN,49.0,1
+Dibrugarh Rajdhani,DIPHU,37.0,2
+Dibrugarh Rajdhani,RANGIYA JN,34.0,3
+Duronto Express,PRAYAGRAJ JN,159.0,1
+Duronto Express,ARA,157.0,2
+Duronto Express,BUXAR,152.0,3
+Duronto Express,JASIDIH JN,152.0,3
+Garib Rath,RATNAGIRI,66.0,1
+Garib Rath,RATNAGIRI,58.0,2
+Garib Rath,KASARAGOD,55.0,3
+Gatimaan Express,V LAKSHMIBAI JHANSI,22.5,1
+Gatimaan Express,GWALIOR,19.0,2
+Gatimaan Express,AGRA CANTT,15.0,3
+Golden Temple Mail,MUZAFFARNAGAR,63.0,1
+Golden Temple Mail,SAKHOTI TANDA,61.0,2
+Golden Temple Mail,SAKHOTI TANDA,61.0,2
+Guruvayur Express,SHERTALAI,77.0,1
+Guruvayur Express,ALLEPPEY,73.0,2
+Guruvayur Express,HARIPPAD,70.0,3
+Guwahati Sbc Express,KOKRAJHAR,252.0,1
+Guwahati Sbc Express,BOLPUR S NIKTN,249.0,2
+Guwahati Sbc Express,RANGIYA JN,248.0,3
+Howrah Duronto,HOWRAH JN,586.0,1
+Howrah Duronto,TATANAGAR JN,530.0,2
+Howrah Duronto,KALYAN JN,482.0,3
+Howrah Mail,SANTRAGACHI JN,158.0,1
+Howrah Mail,SANTRAGACHI JN,158.0,1
+Howrah Mail,ELURU,147.0,3
+Howrah Rajdhani,ASANSOL JN,40.0,1
+Howrah Rajdhani,PARASNATH,34.0,2
+Howrah Rajdhani,HOWRAH JN,30.0,3
+Howrah Rajdhani,HOWRAH JN,30.0,3
+Kamrup Express,NAHARKATIYA,56.0,1
+Kamrup Express,DULIAJAN,56.0,1
+Kamrup Express,NAMRUP,54.0,3
+Kerala Express,WARANGAL,128.0,1
+Kerala Express,VARKALA,126.0,2
+Kerala Express,KOLLAM JN,123.0,3
+Kolkata Rajdhani,HOWRAH JN,30.0,1
+Kolkata Rajdhani,MADHUPUR JN,26.0,2
+Kolkata Rajdhani,KANPUR CENTRAL,21.0,3
+Kovai Express,ERODE JN,43.0,1
+Kovai Express,SALEM JN,41.0,2
+Kovai Express,ERODE JN,23.0,3
+Mumbai Chennai Mail,KAVATHE MAHANKL,55.0,1
+Mumbai Chennai Mail,DHALGAON,51.0,2
+Mumbai Chennai Mail,DHALGAON,51.0,2
+Mumbai Rajdhani,BORIVALI,28.0,1
+Mumbai Rajdhani,NEW DELHI,27.0,2
+Mumbai Rajdhani,KOTA JN,20.0,3
+Mumbai Rajdhani,RATLAM JN,20.0,3
+Mumbai Vande Bharat,NASIK ROAD,42.5,1
+Mumbai Vande Bharat,JALGAON JN,40.0,2
+Mumbai Vande Bharat,JALGAON JN,25.0,3
+Nagercoil Express,SOLAPUR JN,52.0,1
+Nagercoil Express,KARUR,43.0,2
+Nagercoil Express,SAMALPATTI,40.0,3
+Nellai Express,TAMBARAM,24.0,1
+Nellai Express,VRIDHACHALAM JN,22.0,2
+Nellai Express,MELMARUVATTUR,20.0,3
+Palakkad Superfast,PALAKKAD JN,26.0,1
+Palakkad Superfast,GUDIYATTAM,24.0,2
+Palakkad Superfast,KATPADI JN,18.0,3
+Palakkad Superfast,PERAMBUR,18.0,3
+Pandian Exp,TAMBARAM,23.0,1
+Pandian Exp,KODAIKANAL ROAD,21.0,2
+Pandian Exp,VRIDHACHALAM JN,21.0,2
+Paschim Express,FARIDABAD,48.0,1
+Paschim Express,KURUKSHETRA JN,38.0,2
+Paschim Express,SHRI MAHAVEERJI,36.0,3
+Punjab Mail,KHIRKIYA,75.0,1
+Punjab Mail,MAUR,70.0,2
+Punjab Mail,HARDA,70.0,2
+Rajdhani,GWALIOR,25.0,1
+Rajdhani,WARANGAL,18.0,2
+Rajdhani,NAGPUR,16.0,3
+Rajdhani,VIJAYAWADA JN,16.0,3
+Sanghamitra Express,GHORADONGRI,73.0,1
+Sanghamitra Express,MAIHAR,70.0,2
+Sanghamitra Express,PRAYAGRAJ CHHEOKI,70.0,2
+Sbc Guwahati Express,KRISHNARAJAPURM,208.0,1
+Sbc Guwahati Express,ARAKKONAM,201.0,2
+Sbc Guwahati Express,PERAMBUR,200.0,3
+Sealdah Duronto,SRI DUNGARGARH,57.0,1
+Sealdah Duronto,SEALDAH,55.0,2
+Sealdah Duronto,CHURU,41.0,3
+Sealdah Duronto,CHURU,41.0,3
+Sealdah Rajdhani,DURGAPUR,40.0,1
+Sealdah Rajdhani,GAYA JN,24.0,2
+Sealdah Rajdhani,KANPUR CENTRAL,23.0,3
+Shatabdi,MORENA,28.0,1
+Shatabdi,LALITPUR,28.0,1
+Shatabdi,GWALIOR,25.0,3
+Shatabdi,GWALIOR,25.0,3
+Swarna Jayanti Rajdhani,AJMER JN,16.0,1
+Swarna Jayanti Rajdhani,FALNA,16.0,1
+Swarna Jayanti Rajdhani,DELHI CANTT,15.0,3
+Tamil Nadu Exp,KHAMMAM,82.0,1
+Tamil Nadu Exp,VIJAYAWADA JN,67.0,2
+Tamil Nadu Exp,WARANGAL,64.0,3
+Vande Bharat,HOWRAH JN,30.0,1
+Vande Bharat,BOLPUR S NIKTN,21.0,2
+Vande Bharat,TAMBARAM,20.0,3
+Vikramshila Express,PRAYAGRAJ JN,101.0,1
+Vikramshila Express,BARHIYA,75.0,2
+Vikramshila Express,MOKAMEH JN,71.0,3
